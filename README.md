@@ -1,2 +1,2 @@
-# ba-lang-c
+# baslangic
 Github Eğitim
